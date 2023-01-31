@@ -60,6 +60,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Instagram [@rahul_the_confused](https://{www.instagram.com/rahul_the_confused/})
+- Instagram [@rahul_the_confused](https://www.instagram.com/rahul_the_confused/)
 - GitHub [@Rahul-Phoolbhati](https://{github.com/Rahul-Phoolbhati})
 
