@@ -30,13 +30,13 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://https://user-images.githubusercontent.com/100228521/215845919-ab3232e2-8f61-46ff-a6a0-73329e0e78f3.png)
 
 This is a simple 404 error page with a minimal design. You can see the live demo for the same with the link provided at the top.
 
