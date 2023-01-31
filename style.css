@@ -1,0 +1,89 @@
+body{
+  margin: 0;
+}
+.box{
+  display: flex;
+  flex-direction: row;
+  margin-top: 5%;
+  margin-left: 5.3472%;
+  
+}
+
+img{
+  width: 39.56097%;
+  height: 38.35648%;
+  vertical-align:middle;
+}
+
+span{
+  margin-top: 30px;
+  font-family: space Mono;
+  width: 40.69%;
+  padding-left: 8.78145%;
+
+}
+
+.para{
+  width: 68.70%;
+  height: 25.88%;
+  margin-top: 2.25rem;
+  letter-spacing: -0.035em;
+  font-size: 1.5rem;
+}
+
+h1{
+    font-size: 24px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    
+    margin-top: 2.77778%;
+    margin-left: 5.347%;
+}
+.news{
+  font-size: 3em;
+  margin: 0;
+  font-family: 'Space Mono';
+  
+}
+
+button{
+  background-color: #333333;
+  width: 216px;
+  height: 68px;
+  border: none;
+  margin-top: 7.92% ;
+}
+button:hover{
+  background-color: #4f4f4f;
+}
+
+footer{
+  color: #BDBDBD;
+  
+  position: absolute ;
+  
+  bottom: 0;
+  top: 100%;
+  text-align:  center;
+  width: 100%;
+  
+}
+a{
+  color: #BDBDBD;
+  font-weight: 700;
+}
+a:hover{
+  color: #422b2b;
+}
+
+@media screen and (max-width: 55em){
+  .box {
+    flex-direction: column;
+  }
+  .news{
+    font-size: 2.0625em;
+  }
+  .para{
+    font-size: 1rem;
+  }
+}
