@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://https://user-images.githubusercontent.com/100228521/215845919-ab3232e2-8f61-46ff-a6a0-73329e0e78f3.png)
+![screenshot](https://user-images.githubusercontent.com/100228521/215847637-824a7c8c-48f9-4985-a41b-879890339510.png)
 
 This is a simple 404 error page with a minimal design. You can see the live demo for the same with the link provided at the top.
 
